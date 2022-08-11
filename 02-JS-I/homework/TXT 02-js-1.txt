@@ -1,0 +1,12 @@
+Hola bienvenidos, niños de 12 años!!!
+
+ * Variables: es una cajita que sirve para guardar una cosita de cualquier indole, una a la vez, pero podemos cambiar su contenido.
+ * Strings: es como cadena con sus eslabones,los eslabones de pueden modificar, quitar, poner,cambiar etc.  
+ * Funciones (argumentos, `return`): las funciones son como, pequeños de grupos codigos que procesan lo que se les de. Los argumentos son los parametros, como de esta forma si o esta no. Retun, es lo que te tiro, te regreso, te doy, es algo que mando para que lo veas, (es lo que yo quiero que veas).
+ * Declaraciones `if`: es como decir, si pasa esto... hago lo otro, como la gente que le promete cosas al santo de turno a cambio de sus "milagros".
+ * Valores booleanos (`true`, `false`), la verdad verdadera, no como la que dice mi vecina....que es falsa...XD
+	Es un valor, nos dice si algo es verdadero o falso, los uso para comprobar cosas.
+
+Fin.
+
+Exitos!!!!!!.

@@ -3,7 +3,12 @@
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
   // Tu código:
+<<<<<<< HEAD
   return array[0]
+=======
+          return array[0]
+
+>>>>>>> 0d22c8350bda100b1632f551a18a4cdc060f89a8
 }
 
 
@@ -30,11 +35,18 @@ function incrementarPorUno(array) {
   for(var i = 0; i < array.length; i++) {
     nuevoArray[i] = array[i] + 1;
   }
+<<<<<<< HEAD
 
   return nuevoArray;
 }
+=======
+>>>>>>> 0d22c8350bda100b1632f551a18a4cdc060f89a8
 
+  return nuevoArray;
+  
+   
 
+  }
 function agregarItemAlFinalDelArray(array, elemento) {
   // Añade el "elemento" al final del array
   // y devuelve el array
@@ -60,7 +72,11 @@ function dePalabrasAFrase(palabras) {
   // con espacios entre cada palabra
   // Ejemplo: ['Hello', 'world!'] -> 'Hello world!'
   // Tu código:
+<<<<<<< HEAD
   return palabras.join(" ")
+=======
+  return palabras.join(" ");
+>>>>>>> 0d22c8350bda100b1632f551a18a4cdc060f89a8
 }
 
 
@@ -76,6 +92,7 @@ function arrayContiene(array, elemento) {
   return false;
   
 }
+
 
 
 function agregarNumeros(numeros) {
@@ -94,6 +111,10 @@ function promedioResultadosTest(resultadosTest) {
   let sum = resultadosTest.reduce((previous, current) => current += previous);
   let promedio = sum / resultadosTest.length;
   return promedio;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0d22c8350bda100b1632f551a18a4cdc060f89a8
 }
 
 
@@ -114,6 +135,10 @@ function multiplicarArgumentos() {
   // Usa la palabra clave `arguments` para multiplicar todos los argumentos y devolver el producto
   // Si no se pasan argumentos devuelve 0. Si se pasa un argumento, simplemente devuélvelo
   // Escribe tu código aquí:
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 0d22c8350bda100b1632f551a18a4cdc060f89a8
   if(arguments.length < 1) return 0;
   var total = 1;
   for(var i = 0; i < arguments.length; i++) {
@@ -122,11 +147,14 @@ function multiplicarArgumentos() {
   return total;
 }
 
-
 function cuentoElementos(arreglo){
   //Realiza una función que retorne la cantidad de los elementos del arreglo cuyo valor es mayor a 18.
   //Escribe tu código aquí
+<<<<<<< HEAD
   var resultado = 0;
+=======
+var resultado = 0;
+>>>>>>> 0d22c8350bda100b1632f551a18a4cdc060f89a8
 for(var i = 0; i<arreglo.length; i++ ){
   if(arreglo[i]>18){
     resultado = resultado + 1;
@@ -147,9 +175,13 @@ function diaDeLaSemana(numeroDeDia) {
   }else{
     return "Es dia Laboral";
   }
+<<<<<<< HEAD
   
 } 
 
+=======
+}
+>>>>>>> 0d22c8350bda100b1632f551a18a4cdc060f89a8
 
 function empiezaConNueve(n) {
   //Desarrolle una función que recibe como parámetro un número entero n. Debe retornar true si el entero 

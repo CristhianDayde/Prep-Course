@@ -1,0 +1,19 @@
+Bienvenidos niños de 12 años como yo....hace 23 años..
+
+
+* `for`"For" o "por" sirve para buscar en algo y en funcion de eso hacer otra cosa.
+Tiene un inicio, una condicion, y un algo que se hace al final del bucle. Y mientras eso se de, hacemos otras cosas con lo que salga de ahi o no.
+
+* `&&` Es como la Y en un texto, son dos cosas que se tienen que dar, ejemplo (Tengo que estudiar) && (No puedo hacerme el boludo) = Se tienen que cumplir ambas para que mi esposa no me golpee. XD
+* `||` Esta es una cosa o otra cosa por ejemplo:  (Me comporto como un adulto) || (Me comporto como un adulto) = no me hechan de casa. Si se cumple una o la otra, me salvo de ir a vivir de nuevo con mi padres..
+
+*`!` Esto como decir:
+Mi esposa me ama--> Aca es como que me ama.
+!Mi esposa me ama--> Aca me, lo dice ironicamente, no me ama... no es amor ;).
+
+No le cuenten a mi esposa..de verdad.
+
+
+SSiiiiiuuuuuuuu.
+
+Bye.
