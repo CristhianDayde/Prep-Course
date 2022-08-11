@@ -1,0 +1,9 @@
+Bienvenidos niños de una decada y pico!!
+El dia de hoy...
+
+prototype (No el videojuego), los prototipos es la forma en que JS comparte cararcteristicas entre objetos,  a grands razgos.
+
+* _Constructors_ (de Clases) sirver para dar las lo valores inciales al objeto creado por la clase.
+
+
+Chausito!!!!.
