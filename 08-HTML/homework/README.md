@@ -29,20 +29,20 @@ II Añade un poco de estilo
   C. Asignar a los otros divs la clase "divClass".ok
   D. Asignar al span que se encuentra dentro de su segundo div el id "spanId".ok
   E. Agregue una regla de estilo a su elemento h1 cambiando el color del texto (Listado de colores: https://www.crockford.com/wrrrld/color.html).
-  F. Agregue una regla de estilo al elemento img dándole un ancho de 400px.ok
-  G. Agregue una regla de estilo a 'thirdDiv' cambiando la altura a 600px y el ancho a 500px.
-  H. Agregue una regla de estilo a 'thirdDiv' cambiando el color de fondo por el que quiera.
-  I. Cambie el tamaño de la fuente para 'spanId' a 18px.
-  J. Asignar al id 'spanId' un margen de 50px.
+  F. Agregue una regla de estilo al elemento img dándole un ancho de 400px.okok
+  G. Agregue una regla de estilo a 'thirdDiv' cambiando la altura a 600px y el ancho a 500px.ok
+  H. Agregue una regla de estilo a 'thirdDiv' cambiando el color de fondo por el que quiera.ok
+  I. Cambie el tamaño de la fuente para 'spanId' a 18px.ok
+  J. Asignar al id 'spanId' un margen de 50px.ok
   K. Asignar al id 'thirdDiv' un relleno (padding) de 50px.
-  L. Asignar al id 'thirdDiv' un borde con cualquier ancho de color y estilo que elija.
+  L. Asignar al id 'thirdDiv' un borde con cualquier ancho de color y estilo que elija.ok
 ```
 
 ```
-III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anteriores a la nueva hoja de estilo.
-  A. Cree un archivo llamado styles.css en esta carpeta.
+III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anteriores a la nueva hoja de estilo.ok
+  A. Cree un archivo llamado styles.css en esta carpeta.ok
   B. COPIE todas sus reglas de estilo en este nuevo archivo.
-  C. Agregue una etiqueta de enlace a su html que importe su nuevo archivo css.
+  C. Agregue una etiqueta de enlace a su html que importe su nuevo archivo css.ok
 ```
 
 ```
@@ -52,7 +52,7 @@ IV. Suba su trabajo a su repositorio de github`
 ### Crédito adicional:
 >   Para hacer los extra credits, generalmente será necesario que investigue algunas cosas por su cuenta en Internet.
 
-  * Establecer una imagen como fondo de toda la página
+  * Establecer una imagen como fondo de toda la página.ok
   * Centrar los div en la página
   * Centrar todos los elementos en la página
   * [Lea sobre el posicionamiento y use la regla de posición en sus estilos](https://es.learnlayout.com/index.html)
