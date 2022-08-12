@@ -7,29 +7,29 @@ Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crear
 Crear un nuevo archivo dentro de la carpeta `homework` llamado `homework.html` donde deberás realizar lo siguiente:
 ```
 I. Cree una página HTML básica.
-  A. Cree el diseño básico para una página HTML usando html, head y body.
-  B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
-  C. En el cuerpo, crea tres divs.
+  A. Cree el diseño básico para una página HTML usando html, head y body.ok
+  B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".ok
+  C. En el cuerpo, crea tres divs.ok
     1. En el primer div crea:
-      * un elemento h1 que contiene [Tu nombre].
-      * un elemento h3 que contiene "Henry".
-      * un elemento h4 que contiene "tarea de HTML / CSS".
+      * un elemento h1 que contiene [Tu nombre].ok
+      * un elemento h3 que contiene "Henry".ok
+      * un elemento h4 que contiene "tarea de HTML / CSS".ok
     2. En el segundo div crea:
-      * un elemento span que contiene texto que describe su comida favorita.
-      * un elemento 'a' que se vincula a su restaurante favorito.
+      * un elemento span que contiene texto que describe su comida favorita.ok
+      * un elemento 'a' que se vincula a su restaurante favorito.ok
     3. En el tercer div crea:
-      * una lista desordenada con dos elementos dentro de la lista
-      * una etiqueta img en cada elemento de la lista que se vincula a su comida favorita. (Use la búsqueda de imágenes de Google para encontrar una foto y copiar la dirección de la misma o sino puede usar esta: "https://i.picsum.photos/id/1080/400/200.jpg").
+      * una lista desordenada con dos elementos dentro de la listaok
+      * una etiqueta img en cada elemento de la lista que se vincula a su comida favorita. (Use la búsqueda de imágenes de Google para encontrar una foto y copiar la dirección de la misma o sino puede usar esta: "https://i.picsum.photos/id/1080/400/200.jpg").ok
 ```
 
 ```
 II Añade un poco de estilo
-  A. Agregue la etiqueta de estilo a su documento HTML.
-  B. Asignar al tercer div el id "thirdDiv".
-  C. Asignar a los otros divs la clase "divClass".
-  D. Asignar al span que se encuentra dentro de su segundo div el id "spanId".
+  A. Agregue la etiqueta de estilo a su documento HTML.ok
+  B. Asignar al tercer div el id "thirdDiv".ok
+  C. Asignar a los otros divs la clase "divClass".ok
+  D. Asignar al span que se encuentra dentro de su segundo div el id "spanId".ok
   E. Agregue una regla de estilo a su elemento h1 cambiando el color del texto (Listado de colores: https://www.crockford.com/wrrrld/color.html).
-  F. Agregue una regla de estilo al elemento img dándole un ancho de 400px.
+  F. Agregue una regla de estilo al elemento img dándole un ancho de 400px.ok
   G. Agregue una regla de estilo a 'thirdDiv' cambiando la altura a 600px y el ancho a 500px.
   H. Agregue una regla de estilo a 'thirdDiv' cambiando el color de fondo por el que quiera.
   I. Cambie el tamaño de la fuente para 'spanId' a 18px.
