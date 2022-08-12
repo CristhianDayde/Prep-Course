@@ -1,0 +1,10 @@
+I'll be "Callback"......XD
+
+Niños..
+
+Callback (o como le decimos en el barrio "elcalva"):
+es la forma de ejecutan una funcion dentro de otro funcion "externa", tambien sirve asegurarno de que una funcion se ejecuta y luego recien se ejecutara la otra.
+
+Siuuuuuuuu.......
+
+chau.
