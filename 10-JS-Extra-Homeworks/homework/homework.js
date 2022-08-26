@@ -10,6 +10,8 @@ function deObjetoAmatriz(objeto){
       C: 3
     }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
   //Escribe tu código aquí
+
+  return Object.entries(objeto);
 }
 
 
@@ -18,6 +20,15 @@ function numberOfCharacters(string) {
   //en formato par clave-valor.
   //Ej: Recibe ---> "adsjfdsfsfjsdjfhacabcsbajda" || Devuelve ---> { a: 5, b: 2, c: 2, d: 4, f: 4, h:1, j: 4, s: 5 } 
   //Escribe tu código aquí
+var objeto ={};
+for(var i = 0; i < string.length; i++){
+  if(!objeto.hasOwnProperty(string[i])){
+    objeto[string[i]]  = 0;
+  }
+  objeto[string[i]] += 1;
+}
+return objeto;
+
 }
 
 
@@ -25,7 +36,19 @@ function capToFront(s) {
   //Realiza una función que reciba como parámetro un string y mueva todas las letras mayúsculas
   //al principio de la palabra.
   //Ejemplo: soyHENRY -> HENRYsoy
-  //Escribe tu código aquí
+  //Escribe tu código aquí}
+  var mayusculas = '';
+var minusculas = '';
+
+for (var i = 0; i< s.length; i++){
+  if(s[i] === s[i].toUpperCase()){
+    mayusculas += s[i];
+  }else {
+    minusculas += s[i];
+  }
+  
+}
+return mayusculas +  minusculas;
 }
 
 
@@ -35,6 +58,19 @@ function asAmirror(str) {
   //pero con cada una de sus palabras invertidas, como si fuera un espejo.
   //Ej: Recibe ---> "The Henry Challenge is close!" || Devuelve ---> "ehT yrneH egnellahC si !esolc"
   //Escribe tu código aquí
+var fraseInvertida = str.split(" ").map(function(palabra){
+  var cadaPalabra = ' ';
+    for(var i = palabra.length -1 ; i >= 0; i--){
+      cadaPalabra = cadaPalabra[i];
+    }
+    return cadaPalabra;
+}).join(" ");
+
+return fraseInvertida;
+  
+  
+  
+
 } 
 
 
@@ -42,14 +78,32 @@ function capicua(numero){
   //Escribe una función, la cual recibe un número y determina si es o no capicúa.
   //La misma debe retornar: "Es capicua" si el número se número que se lee igual de 
   //izquierda a derecha que de derecha a izquierda. Caso contrario retorna "No es capicua"
+
   //Escribe tu código aquí
+
+  if((numero.toString().split('').reverse().join('')) === numero.toString()){
+   return "Es capicua";
+}else {
+  return "No es capicua";
 }
+}
+
+
 
 
 function deleteAbc(cadena){
   //Define una función que elimine las letras "a", "b" y "c" de la cadena dada 
   //y devuelva la versión modificada o la misma cadena, en caso de contener dichas letras.
   //Escribe tu código aquí
+let abc = "";
+for(cadena of letra){
+  if(cadena[letra] == a || b || c){
+    delete cadena[letra];
+    abc = cadena - cadena[letra];
+  }
+}return abc;
+
+
 }
 
 

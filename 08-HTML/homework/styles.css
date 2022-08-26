@@ -1,61 +1,22 @@
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-thirdDiv{height: 600px;
-width: 500px;
-background-color: rgb(35, 9, 143);
-padding: 50px;
-border: 15px chocolate;
-display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 h1{
-    color: crimson;
-    display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: red;
+}
+img{
+  width: 400px;
+}
+#thirdDiv{
+  height: 500px;
+  width: 600px;
+  background-color: aqua;
+  padding: 50px;
+  border: 20px
+   solid rgb(0, 255, 47);
+   margin: 50pxr;
 
 }
+#span{
+  font-size: 18px;
+  margin: 50px;
+  margin: 50xp;
 
-h3{
-    display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-h4{
-    display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-span{
-    display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 150%;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-;
-}
-ul{
-    display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-}
-
-
-spanID {
-    font-size: 18px;
-    margin: 50px;
-    display: flex;
-    flex-direction: column;
-    align-items: stretch;
-}
-
-body{
-    background-image:url(https://cdn.foodandwineespanol.com/2019/06/parrilla-portatil.jpg);
-    background-position: center;
-    display: inline-flexbox;
 }
